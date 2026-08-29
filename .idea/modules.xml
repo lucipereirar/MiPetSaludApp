@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MiPetSaludApp.iml" filepath="$PROJECT_DIR$/.idea/MiPetSaludApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Program Files/Java/jdk-21.0.10/jdk-21.0.10.iml" filepath="$PROJECT_DIR$/../Program Files/Java/jdk-21.0.10/jdk-21.0.10.iml" />
     </modules>
   </component>
 </project>
