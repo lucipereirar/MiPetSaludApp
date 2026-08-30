@@ -1,4 +1,4 @@
 package com.MiPetSalud.MiPetSaludApp.domain.recordatoriopersonal;
 
-public class recordatorioController {
+public class RecordatorioService {
 }
